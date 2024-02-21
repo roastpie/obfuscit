@@ -1,7 +1,7 @@
 {
-	"name": "tailwind-obfuscator",
-	"version": "1.0.14",
-	"description": "Plugin for Vite that helps you protect your stylesheet code by obfuscating such as TailwindCSS class names.",
+	"name": "obfuscit",
+	"version": "1.0.2",
+	"description": "Plugin for Vite that helps you protect your stylesheet code by obfuscating TailwindCSS, Bulma, Bootstrap and more",
 	"main": "src/index.js",
 	"type": "module",
 	"scripts": {
