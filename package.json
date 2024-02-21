@@ -1,6 +1,6 @@
 {
 	"name": "obfuscit",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Plugin for Vite that helps you protect your stylesheet code by obfuscating TailwindCSS, Bulma, Bootstrap and more",
 	"main": "src/index.js",
 	"type": "module",
