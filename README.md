@@ -67,6 +67,10 @@
 </ol>
 </details>
 
+## Notice
+
+**Important:** This package is currently not being updated. Due to other commitments, I am unable to maintain or update this project at this time. When I have more availability, I plan to release a new version written in Rust with support for Bun and other platforms. Thank you for your understanding and patience.
+
 ## Roadmap
 
 - [x] Customizable classname length/prefix/suffix
